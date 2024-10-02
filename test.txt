@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 
 
 local write to test_file
+=======
+remote write test_file
+>>>>>>> 160d810726d1d7242f25a620e5e5838dd82f0fc0
